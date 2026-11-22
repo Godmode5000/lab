@@ -6,5 +6,13 @@
   "publisherPrefix": "lab",
   "repo": "Godmode5000/lab",
   "mainRulesetId": 27856278,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "devEnvUrl": "https://orgf8178820.crm3.dynamics.com/",
+  "devEnvId": "3b7499b9-da7a-e8a3-925e-3f827a9093f0",
+  "devOrgId": "674f24c1-72df-f111-84dd-0022483d7cf4",
+  "testEnvUrl": "https://wm-test-1186.crm3.dynamics.com/",
+  "testEnvId": "21e14a12-2f5d-ee5f-a509-e11f489c3ff3",
+  "testOrgId": "d43e82c2-9fe6-f111-8be7-0022486db9f5",
+  "devProfile": "dev",
+  "testProfile": "test"
 }
