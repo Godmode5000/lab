@@ -14,5 +14,6 @@
   "testEnvId": "21e14a12-2f5d-ee5f-a509-e11f489c3ff3",
   "testOrgId": "d43e82c2-9fe6-f111-8be7-0022486db9f5",
   "devProfile": "dev",
-  "testProfile": "test"
+  "testProfile": "test",
+  "appId": "6b5bb27d-1911-4b74-8e83-70a31d7968ae"
 }
